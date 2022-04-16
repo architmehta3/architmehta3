@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @architmehta3
 - 🧑‍💻 Designer And Developer
 - 🌱 I’m currently Working on my Android Developement Skills
-- 💞️ I’m looking to collaborate on ...
+-  <br>
+-  <br>
 - 📫 How to reach me ..
 -  <a href="https://www.linkedin.com/in/architmehta03/">Archit Mehta On Linkedin</a>
 -  <a href="https://twitter.com/ArchitMehta03">Archit Mehta On Twitter</a>
